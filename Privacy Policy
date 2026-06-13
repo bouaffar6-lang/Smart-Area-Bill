@@ -1,0 +1,31 @@
+# Privacy Policy for Smart Area Bill
+
+**Last updated:** June 13, 2026
+
+"Smart Area Bill" (represented as "we", "us", or "our") is committed to protecting your privacy. This Privacy Policy describes how your information is handled when you use our mobile application.
+
+### 1. Local Data Processing & Storage
+Smart Area Bill is designed as a fully local estimator and quantity surveying tool. 
+* All inputs, dimensions, room details, and materials details you enter are stored exclusively on your device using a local SQLite database (Room DB).
+* PDF reports are compiled locally on your device.
+* We do not collect, transmit, upload, or share any of your inputs, personal data, or layout measurements to remote servers.
+
+### 2. Device Permissions
+The application may request the following permissions during use:
+* **Storage / Media Access (Optional):** Necessary to write and save generated PDF reports locally on your device or to allow you to select local files (like brand logos) to customize summaries.
+
+### 3. Third-Party Advertising Services
+To keep this application 100% free for engineers and contractors, we integrate third-party advertising. We use the **Adsterra Advertising Network** to serve ads (such as Banners, Interstitials, and Rewarded Videos). 
+
+These third-party ad networks may automatically collect and use non-personal device data, including:
+* Device advertising identifiers (e.g., Google AAID).
+* IP address (for rough geographic location/country determination).
+* Device model and operating system version.
+
+This data is used solely by the ad network to deliver relevant advertisements and prevent fraud. No engineering data, project dimensions, or financial calculations from your bills are ever accessed or shared with these parties.
+
+### 4. Children’s Privacy
+Since we do not collect any personal data and our tools are built for professional construction and engineering use, our services do not knowingly collect any information from children under the age of 13.
+
+### 5. Contact Us
+If you have any questions or concerns about this privacy policy, you can reach out via your support email at: [bouaffar3@gmail.com]
