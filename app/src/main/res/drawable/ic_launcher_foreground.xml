@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Subtle, beautiful architectural background grids -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="0.8"
+        android:strokeAlpha="0.25"
+        android:pathData="M 30,30 L 78,30 M 30,42 L 78,42 M 30,54 L 78,54 M 30,66 L 78,66 M 30,78 L 78,78" />
+    
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="0.8"
+        android:strokeAlpha="0.25"
+        android:pathData="M 30,30 L 30,78 M 42,30 L 42,78 M 54,30 L 54,78 M 66,30 L 66,78 M 78,30 L 78,78" />
+
+    <!-- Drafting Right-Triangle Set Square (Ruler) in White with no shadow -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 34,36 L 34,74 C 34,74.5 34.5,75 35,75 L 73,75 C 73.8,75 74.2,74 73.5,73.5 L 35.5,35.5 C 35,34.8 34,35.2 34,36 Z" />
+    
+    <!-- Cutout inside the triangle to make it a realistic drafting ruler -->
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M 40,48 L 40,69 C 40,69.5 40.5,70 41,70 L 62,70 C 62.5,70 62.5,69.5 62,69 L 41,48 C 40.5,47.5 40,47.5 40,48 Z" />
+
+    <!-- Sharp Engineering Measurement Line with Arrowheads (flat white, no shadow) -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.0"
+        android:strokeLineCap="round"
+        android:pathData="M 28,82 L 80,82" />
+    
+    <!-- Left Arrowhead -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.0"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M 34,77 L 28,82 L 34,87" />
+
+    <!-- Right Arrowhead -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.0"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M 74,77 L 80,82 L 74,87" />
+
+    <!-- Precise measurement text symbol in the middle to emphasize calculating area -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 50,22 H 58 M 54,22 V 28 M 51,28 H 57" />
+
+</vector>

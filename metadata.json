@@ -1,0 +1,6 @@
+{
+  "name": "Smart Area Pro",
+  "description": "منصة ذكية لحساب مساحات الغرف وتكاليف البناء وإنشاء تقارير PDF وإدارتها بالكامل دون اتصال بالإنترنت",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
